@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Especialista em criação de sites com WordPress e Elementor Pro.Sou graduado em Administração pela Universidade Estadual de Minas Gerais, com curso de Introdução à Programação com foco em Front-End, oferecido pela Proz em parceria com a AWS. Tenho mais de 10 anos de experiência que abrangem Tecnologia da Informação, atendimento ao cliente e rotinas administrativas.</p>
+<p align="left">Especialista em criação de sites com WordPress e Elementor Pro. Sou graduado em Administração pela Universidade Estadual de Minas Gerais, com curso de Introdução à Programação com foco em Front-End, oferecido pela Proz em parceria com a AWS. Tenho mais de 10 anos de experiência que abrangem Tecnologia da Informação, atendimento ao cliente e rotinas administrativas.</p>
 
 ###
 
