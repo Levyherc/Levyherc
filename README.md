@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Especialista em criação de sites com WordPress e Elementor Pro, formado em Administração pela Universidade Estadual de Minas Gerais, tendo no decorrer de mais de 10 anos adquirido experiência tanto na área de T.I e atendimento ao cliente, quanto em rotinas administrativas.<br>Tive a oportunidade de desempenhar os cargos de Gestor Backbone e Administrador de Sistemas, Supervisor de Call Center, Professor em curso Técnico de Informática - Pronatec, Analista de implantação e Suporte Técnico, Auxiliar Administrativo. <br><br>Sou um profissional com pensamento analítico para resolução de problemas, criativo, dedicado, atento aos detalhes, proativo, aprendo rápido, organizado, pontual.<br><br>Apaixonado por Tecnologia e Administração. Aprendendo na prática sobre PHP, HTML, CSS, JavaScript. Sou um entusiasta e curioso por novas tecnologias. Adoro aprender, explorar, descobrir novos lugares e ideias, sempre buscando a melhoria contínua tanto profissional como pessoal.</p>
+<p align="left">Especialista em criação de sites com WordPress e Elementor Pro.Sou graduado em Administração pela Universidade Estadual de Minas Gerais, com curso de Introdução à Programação com foco em Front-End, oferecido pela Proz em parceria com a AWS. Tenho mais de 10 anos de experiência que abrangem Tecnologia da Informação, atendimento ao cliente e rotinas administrativas.</p>
 
 ###
 
