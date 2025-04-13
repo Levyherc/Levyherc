@@ -41,7 +41,7 @@
 <!-- Projetos -->
 ## 🚀 Portfólio
 
-- 🧰 [Projeto Integrador (UX + Front-end)](https://levyherc.github.io/integrador/4-integrador/)  
+- 🧰 [Projeto Integrador (UX + Front-end)]([https://levyherc.github.io/integrador/4-integrador/](https://levyherc.github.io/Projeto-Integrador-Proz-AWS/5-integrador-4.0-projeto-final/index.html)  
   *Aplicação web desenvolvida com foco na experiência do usuário e navegabilidade intuitiva, utilizando HTML, CSS e JavaScript.*
 
 - 🔐 [Gerador de Senhas](https://levyherc.github.io/Gerador_senha/)  
