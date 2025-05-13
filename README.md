@@ -17,7 +17,7 @@
 
   - 👨‍💻 Atualmente atuo como Analista de Suporte e Sucesso do Cliente em plataforma LMS.
   - 🌱 Buscando constante evolução, estou me especializando em UX/UI Design, desenvolvimento Front-end e fundamentos de Cloud na Proz Educação.
-  - 💡 Tenho conhecimentos sólidos adquiridos por meio de projetos e estudos práticos em WordPress, HTML, CSS e JavaScript. Além disso, atuo com vivência prática em Figma, Notion, Trello, Jira e suporte técnico multicanal.
+  - 💡 Tenho conhecimentos adquiridos por meio de projetos e estudos práticos em WordPress, HTML, CSS, JavaScript e Figma. Além disso, atuo com vivência prática em Notion, Trello, Jira e suporte técnico multicanal.
 </p>
 
 <!-- Mais sobre mim -->
