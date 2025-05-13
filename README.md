@@ -15,7 +15,7 @@
 <p>
   Me chamo Levy Herculano e sou um profissional com mais de 10 anos de experiência em Tecnologia da Informação, Atendimento ao Cliente, Suporte Técnico e Onboarding.
 
-  - 👨‍💻 Atualmente atuo como Analista de Suporte e Sucesso do Cliente em plataforma LMS.
+  - 👨‍💻 Tenho atuado como Analista de Suporte e Sucesso do Cliente em plataforma LMS.
   - 🌱 Buscando constante evolução, estou me especializando em UX/UI Design, desenvolvimento Front-end e fundamentos de Cloud na Proz Educação.
   - 💡 Tenho conhecimentos adquiridos por meio de projetos e estudos práticos em WordPress, HTML, CSS, JavaScript e Figma. Além disso, atuo com vivência prática em Notion, Trello, Jira e suporte técnico multicanal.
 </p>
