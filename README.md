@@ -53,13 +53,22 @@
 - ☕ [Projeto Starbucks (Flexbox & Grid)](https://levyherc.github.io/Estudos/Projetos/Projeto-Starbucks-com-Flexbox-e-Grid-R/index.html)  
   *Página clonada da Starbucks utilizando técnicas modernas de CSS.*
 
+ ### 🎨 Protótipos no Figma
+
+- 🖌️ [Protótipo de Site](https://www.figma.com/design/4WD0lArduhphsJNsUGzB4v/Projetos?node-id=0-1&t=8KMBhkrKiNiLBO61-1)  
+
+- 🛒 [Protótipo de Landing Page](https://www.figma.com/design/4WD0lArduhphsJNsUGzB4v/Projetos?node-id=29-8&t=8KMBhkrKiNiLBO61-1)  
+
+- 📱 [Protótipo Mobile Responsivo](https://www.figma.com/design/4WD0lArduhphsJNsUGzB4v/Projetos?node-id=44-2&t=8KMBhkrKiNiLBO61-1)  
+<br>
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="100" />
 </p>
 
+
 <!-- Skills -->
-## 🔧 Skills
+<h2>🔧 <strong>Skills</strong></h2>
 
 ### Programming Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
