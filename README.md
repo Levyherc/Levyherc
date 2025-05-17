@@ -53,13 +53,23 @@
 - ☕ [Projeto Starbucks (Flexbox & Grid)](https://levyherc.github.io/Estudos/Projetos/Projeto-Starbucks-com-Flexbox-e-Grid-R/index.html)  
   *Página clonada da Starbucks utilizando técnicas modernas de CSS.*
 
- ### 🎨 Protótipos no Figma
+### 🎨 Protótipos no Figma
 
-- 🖌️ [Protótipo de Site](https://www.figma.com/design/4WD0lArduhphsJNsUGzB4v/Projetos?node-id=0-1&t=8KMBhkrKiNiLBO61-1)  
+- 🖌️ [Protótipo de Site Institucional](https://www.figma.com/design/4WD0lArduhphsJNsUGzB4v/Projetos?node-id=0-1&t=8KMBhkrKiNiLBO61-1)  
+  *Layout de site com foco em organização visual e navegação clara.*
 
-- 🛒 [Protótipo de Landing Page](https://www.figma.com/design/4WD0lArduhphsJNsUGzB4v/Projetos?node-id=29-8&t=8KMBhkrKiNiLBO61-1)  
+- 🙋‍♂️ [Landing Page Pessoal ("Sobre Mim")](https://www.figma.com/design/4WD0lArduhphsJNsUGzB4v/Projetos?node-id=29-8&t=8KMBhkrKiNiLBO61-1)  
+  *Página de apresentação pessoal com informações sobre trajetória, habilidades e contato.*
 
 - 📱 [Protótipo Mobile Responsivo](https://www.figma.com/design/4WD0lArduhphsJNsUGzB4v/Projetos?node-id=44-2&t=8KMBhkrKiNiLBO61-1)  
+  *Design adaptado para dispositivos móveis com usabilidade otimizada.*
+
+- 🔧 [Melhoria de Protótipo Mobile](https://www.figma.com/design/4WD0lArduhphsJNsUGzB4v/Projetos?node-id=66-2&t=tbKnugSAPXXbnXq8-1)  
+  *Refinamento de UI e experiência de navegação em telas menores.*
+
+- 🧪 [Protótipo em Teste](https://www.figma.com/design/4WD0lArduhphsJNsUGzB4v/Projetos?node-id=111-390&t=tbKnugSAPXXbnXq8-1)  
+  *Exploração de layout e elementos interativos em fase inicial.*
+
 <br>
 <!-- GIF -->
 <p align="left">
