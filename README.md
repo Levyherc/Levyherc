@@ -44,14 +44,14 @@
 - 🧰 [Projeto Integrador (UX + Front-end)](https://levyherc.github.io/Projeto-Integrador-Proz-AWS/5-integrador-4.0-projeto-final/index.html)    
   *Aplicação web desenvolvida com foco na experiência do usuário e navegabilidade intuitiva, utilizando HTML, CSS e JavaScript.*
 
-- 🔐 [Gerador de Senhas](https://levyherc.github.io/Gerador_senha/)  
-  *Ferramenta responsiva desenvolvida com JavaScript para gerar senhas seguras.*
+- 🔐 [Beleza Essencial]([https://levyherc.github.io/Gerador_senha/](https://levy.produtivoia.xyz/demo/landing-page-mod-1/landing-page-mod-1.html))  
+  *Landing page com foco em estética e bem-estar, apresentando serviços e chamada para agendamento.*
 
-- 🍔 [Projeto B7Burger](https://levyherc.github.io/Estudos/Projetos/Projeto-B7Burger/index.html)  
-  *Landing page temática de hamburgueria com layout responsivo.*
+- 🍔 [Nova Solução](https://levy.produtivoia.xyz/demo/e-commerce-mod-1/e-commerce-mod-1.html)  
+  *Protótipo de e-commerce moderno com categorias, banners promocionais e layout responsivo.*
 
-- ☕ [Projeto Starbucks (Flexbox & Grid)](https://levyherc.github.io/Estudos/Projetos/Projeto-Starbucks-com-Flexbox-e-Grid-R/index.html)  
-  *Página clonada da Starbucks utilizando técnicas modernas de CSS.*
+- ☕ [FinanSmart)](https://levy.produtivoia.xyz/demo/landing-page-mod-2/landing-page-mod-2.html)  
+  *Landing page institucional para soluções financeiras, com foco em conversão e layout profissional*
 
 ### 🎨 Protótipos no Figma
 
