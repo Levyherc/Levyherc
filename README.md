@@ -41,16 +41,16 @@
 <!-- Projetos -->
 ## 🚀 Portfólio
 
-- 🧰 [Projeto Integrador (UX + Front-end)](https://levyherc.github.io/Projeto-Integrador-Proz-AWS/5-integrador-4.0-projeto-final/index.html)    
+- [Projeto Integrador (UX + Front-end)](https://levyherc.github.io/Projeto-Integrador-Proz-AWS/5-integrador-4.0-projeto-final/index.html)    
   *Aplicação web desenvolvida com foco na experiência do usuário e navegabilidade intuitiva, utilizando HTML, CSS e JavaScript.*
 
-- 🔐 [Beleza Essencial]([https://levyherc.github.io/Gerador_senha/](https://levy.produtivoia.xyz/demo/landing-page-mod-1/landing-page-mod-1.html))  
+- [Beleza Essencial](https://levy.produtivoia.xyz/demo/landing-page-mod-1/landing-page-mod-1.html)  
   *Landing page com foco em estética e bem-estar, apresentando serviços e chamada para agendamento.*
 
-- 🍔 [Nova Solução](https://levy.produtivoia.xyz/demo/e-commerce-mod-1/e-commerce-mod-1.html)  
+- [Nova Solução](https://levy.produtivoia.xyz/demo/e-commerce-mod-1/e-commerce-mod-1.html)  
   *Protótipo de e-commerce moderno com categorias, banners promocionais e layout responsivo.*
 
-- ☕ [FinanSmart)](https://levy.produtivoia.xyz/demo/landing-page-mod-2/landing-page-mod-2.html)  
+- [FinanSmart](https://levy.produtivoia.xyz/demo/landing-page-mod-2/landing-page-mod-2.html)  
   *Landing page institucional para soluções financeiras, com foco em conversão e layout profissional*
 
 ### 🎨 Protótipos no Figma
