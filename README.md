@@ -32,7 +32,7 @@
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levyherculano)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-levyherc.github.io-1abc9c?style=for-the-badge&logo=github)](https://levy.produtivoia.xyz/#projetos)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-levy.produtivoia.xyz-1abc9c?style=for-the-badge&logo=vercel&logoColor=white)](https://levy.produtivoia.xyz/#projetos)
 [![GitHub](https://img.shields.io/badge/GitHub-Levyherc-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Levyherc)
 
 <!-- GitHub Stats -->
