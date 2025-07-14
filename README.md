@@ -70,6 +70,12 @@
 - 🧪 [Protótipo em Teste](https://www.figma.com/design/4WD0lArduhphsJNsUGzB4v/Projetos?node-id=111-390&t=tbKnugSAPXXbnXq8-1)  
   *Exploração de layout e elementos interativos em fase inicial.*
 
+### 🖼️ Projetos no Canva
+
+- 📊 [Apresentação Profissional no Canva](https://levy.produtivoia.xyz/demo/canva/index.html)  
+  *Apresentação visual impactante, combinando criatividade e estrutura, desenvolvida no Canva com foco em clareza e comunicação eficiente.*
+
+
 <br>
 <!-- GIF -->
 <p align="left">
