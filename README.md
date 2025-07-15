@@ -72,8 +72,8 @@
 
 ### 🖼️ Projetos no Canva
 
-- 📊 [Apresentação Profissional no Canva](https://levy.produtivoia.xyz/demo/canva/index.html)  
-  *Apresentação visual impactante, combinando criatividade e estrutura, desenvolvida no Canva com foco em clareza e comunicação eficiente.*
+- 📊 [Apresentações Profissionais no Canva](https://levy.produtivoia.xyz/demo/canva/index.html)  
+  *Coleção de apresentações visuais impactantes desenvolvidas no Canva, combinando criatividade, estrutura e foco em comunicação eficiente.*
 
 
 <br>
